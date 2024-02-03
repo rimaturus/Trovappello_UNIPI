@@ -15,7 +15,9 @@ You can put the file "trovappello" wherever you want and launch it as "./trovapp
 To setup the exams that you are looking for, modify the list "exams_code" in the main file **Trovappello.py**
 ![Exams_code](images/exam_codes.png)
 
+**Mode 1 (Online)**
 ![Mode 1 (Online)](images/mode1.png)
+**Mode 2 (Offline)**
 ![Mode 2 (Offline)](images/mode2.png)
 
 
@@ -34,5 +36,7 @@ Puoi mettere il file "trovappello" ovunque desideri e avviarlo come "./trovappel
 Per specificare gli esami che stai cercando basta modificare la lista *exams_code* nel file principale **Trovappello.py**
 ![Exams_code](images/exam_codes.png)
 
+**Modalità 1 (Online)**
 ![Mode 1 (Online)](images/mode1.png)
+**Modalità 2 (Offline)**
 ![Mode 2 (Offline)](images/mode2.png)
