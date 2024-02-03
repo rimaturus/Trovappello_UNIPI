@@ -17,6 +17,7 @@ To setup the exams that you are looking for, modify the list "exams_code" in the
 
 **Mode 1 (Online)**
 ![Mode 1 (Online)](images/mode1.png)
+
 **Mode 2 (Offline)**
 ![Mode 2 (Offline)](images/mode2.png)
 
@@ -38,5 +39,6 @@ Per specificare gli esami che stai cercando basta modificare la lista *exams_cod
 
 **Modalità 1 (Online)**
 ![Mode 1 (Online)](images/mode1.png)
+
 **Modalità 2 (Offline)**
 ![Mode 2 (Offline)](images/mode2.png)
