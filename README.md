@@ -1,5 +1,6 @@
 # Trovappello by Rimaturus
-[ENG] This script is used to filter the exams we have to administer from the list of all exams for each exam session. 
+## [ENG] 
+This script is used to filter the exams we have to administer from the list of all exams for each exam session. 
 It has two modes:
 1. **Online Mode**: It searches the university's website for the most updated list and saves the filtered results in a convenient .csv file.
 2. **Offline Mode**: Similar to the online mode, but it filters the .pdf file of the list for which we provide the path.
@@ -15,7 +16,8 @@ To setup the exams that you are looking for, modify the list "exams_code" in the
 ![Exams_code](images/exam_codes.png)
 
 
-[ITA] Questo script è utilizzato per filtrare gli esami che dobbiamo amministrare dalla lista di tutti gli esami per ciascuna sessione d'esame. Ha due modalità:
+## [ITA] 
+Questo script è utilizzato per filtrare gli esami che dobbiamo amministrare dalla lista di tutti gli esami per ciascuna sessione d'esame. Ha due modalità:
 1. **Modalità Online**: Cerca sul sito web dell'università l'elenco più aggiornato e salva i risultati filtrati in un comodo file .csv.
 2. **Modalità Offline**: Simile alla modalità online, ma filtra il file .pdf dell'elenco per il quale forniamo il percorso.
 
