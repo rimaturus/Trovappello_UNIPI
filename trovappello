@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Find the Python program file
+python_program=$(find /home/ -name "Trovappello.py" -type f -print -quit)
+
+# Check if a Python program file is found
+if [ -z "$python_program" ]; then
+    echo "Error: No Python program found in the current directory or its subdirectories."
+    exit 1
+fi
+
+# Launch the Python program
+echo "Launching Python program: $python_program"
+python3 "$python_program"
