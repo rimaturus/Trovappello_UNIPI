@@ -14,6 +14,9 @@ You can put the file "trovappello" wherever you want and launch it as "./trovapp
 To setup the exams that you are looking for, modify the list "exams_code" in the main file **Trovappello.py**
 ![Exams_code](images/exam_codes.png)
 
+![Mode 1 (Online)](images/mode1.png)
+![Mode 2 (Offline)](images/mode2.png)
+
 
 [ITA] Questo script è utilizzato per filtrare gli esami che dobbiamo amministrare dalla lista di tutti gli esami per ciascuna sessione d'esame. Ha due modalità:
 1. **Modalità Online**: Cerca sul sito web dell'università l'elenco più aggiornato e salva i risultati filtrati in un comodo file .csv.
@@ -28,3 +31,6 @@ Puoi mettere il file "trovappello" ovunque desideri e avviarlo come "./trovappel
 
 Per specificare gli esami che stai cercando basta modificare la lista *exams_code* nel file principale **Trovappello.py**
 ![Exams_code](images/exam_codes.png)
+
+![Mode 1 (Online)](images/mode1.png)
+![Mode 2 (Offline)](images/mode2.png)
