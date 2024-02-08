@@ -1,4 +1,4 @@
-# Trovappello by Rimaturus
+# Trovappello
 ![Main image](images/Drawing.png)
 ## [ENG] 
 This script is used to filter the exams we have to administer from the list of all exams for each exam session. 
