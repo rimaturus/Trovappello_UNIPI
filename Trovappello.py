@@ -34,7 +34,38 @@ def filter_calendar(pdf_file_url, exam_codes, output_dir):
 
 if __name__ == "__main__":
     # List of the exam you want to select in the calendar
-    exam_codes = {"271II", "713II", "455AA", "274II", "277II", "278II", "263II"}
+    exam_codes_dict = {
+        "CdP": "713II", 
+        "CD": "714II",
+        "DRSE": "1082I",
+        "ISTR": "274II",
+        "MdR": "276II",
+        "MTA": "1124I",
+        "PPS": "455AA",
+        "SEAR": "279II",
+        "TdSC": "281II",
+        "CF": "260II",
+        "CISI": "263II",
+        "DV": "271II",
+        "LVM": "1123I",
+        "MSPPD": "849II",
+        "ROB": "277II",
+        "RA": "712II",
+        "SGN": "278II",
+        "SS": "280II"
+    }
+
+    exam_codes = [
+        exam_codes_dict["CdP"],
+        exam_codes_dict["ISTR"],
+        exam_codes_dict["MdR"],
+        exam_codes_dict["PPS"],
+        exam_codes_dict["CF"],
+        exam_codes_dict["SGN"],
+        exam_codes_dict["MSPPD"],
+        exam_codes_dict["ROB"]
+        ]
+    
     output_dir = os.getcwd() + "/" 
 
     mode = "3"
