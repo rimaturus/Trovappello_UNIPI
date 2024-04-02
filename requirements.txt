@@ -3,4 +3,5 @@ matplotlib
 numpy
 pandas
 Requests
+tabula
 tabula_py
